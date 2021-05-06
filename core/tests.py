@@ -36,4 +36,3 @@ class ProfileTestCase(TestCase):
         element.click()
 
         # ...
-
